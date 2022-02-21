@@ -9,4 +9,4 @@ https://reactuiux.netlify.app/
 npm i and npm start
 
 #### Made By
-Figma, React, css, HTML
+Figma, React, CSS, HTML
