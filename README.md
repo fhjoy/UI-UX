@@ -5,6 +5,8 @@
 #### Click here to visit the site
 https://reactuiux.netlify.app/
 
-#### To run the project
-npm i and 
-npm start
+#### Available Scripts
+npm i and npm start
+
+#### Made By
+Figma, React, css, HTML
