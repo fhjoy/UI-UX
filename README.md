@@ -2,7 +2,7 @@
 
 #### Click here to visit the site
 
-https://reactuiux.netlify.app/
+https://gpt3uiux.netlify.app/ 
 
 #### Available Scripts
 
